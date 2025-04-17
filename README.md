@@ -10,4 +10,5 @@ slmgr /xpr
 ```
 > **Good to Know:** Activated Windows allows full updates and feature support.
 ---
-windows-activation-status
+[Read more](https://github.com/winoff-master/)
+---
